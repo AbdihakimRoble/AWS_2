@@ -75,7 +75,7 @@ AWS_SECRET_ACCESS_KEY=<Your_AWS_Secret_Access_Key>
 Here is a screenshot of the data visualization dashboard:
 
 
-##![0MZqCkk](https://github.com/user-attachments/assets/382cbfcb-96fa-408a-9b8f-e2a3fcbefe4a)
+![0MZqCkk](https://github.com/user-attachments/assets/382cbfcb-96fa-408a-9b8f-e2a3fcbefe4a)
 
 
 
