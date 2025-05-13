@@ -65,7 +65,7 @@ AWS_SECRET_ACCESS_KEY=<Your_AWS_Secret_Access_Key>
 
 ## System Design Overview
 
-[[Skärmbild 2025-05-13 112336](https://github.com/user-attachments/assets/7cece6ab-0ba0-4c6f-ae1b-ff6bee07f672)](https://imgur.com/a/3G5IeIv)]
+![eWSbQRK - Imgur](https://github.com/user-attachments/assets/5ba824d4-b233-485e-a248-44abed0e1840)
 
 
 
@@ -75,7 +75,8 @@ AWS_SECRET_ACCESS_KEY=<Your_AWS_Secret_Access_Key>
 Here is a screenshot of the data visualization dashboard:
 
 
-## ![eWSbQRK - Imgur](https://github.com/user-attachments/assets/5ba824d4-b233-485e-a248-44abed0e1840)
+##![0MZqCkk](https://github.com/user-attachments/assets/382cbfcb-96fa-408a-9b8f-e2a3fcbefe4a)
+
 
 
 
